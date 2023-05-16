@@ -1,2 +1,4 @@
-# PIV
-This repository contains an image retrieval implementation using the Scalable Color Descriptor
+# Projecte PIV (Processament d'imatge i vídeo)
+Aquest repositori conté una implementació de recuperació d'imatges Matlab utilitzant SCD (Scalable Color Descriptor).
+
+!(figures/overview.jpg "Estructura de l'algorisme")
